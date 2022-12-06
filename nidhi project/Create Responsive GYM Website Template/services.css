@@ -1,0 +1,48 @@
+
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.p1{
+    padding-top: 5%;
+}
+.pp1{
+    height: 92px;
+    width: 727px;
+    padding-left: 415px;
+    font-family:cursive;
+}
+.pp2{
+    padding-top: 11%;
+    height: 92px;
+    width: 727px;
+    padding-left: 415px;
+    font-family:cursive;
+}
+.pp3{
+    padding-top: 20%;
+    height: 92px;
+    width: 727px;
+    padding-left: 415px;
+    font-family:cursive;
+}
+.pp4{
+    padding-top:20%;
+    height: 92px;
+    width: 727px;
+    padding-left: 415px;
+    font-family:cursive;
+}
+.pp5{
+    padding-top: 11%;
+    height: 92px;
+    width: 727px;
+    padding-left: 415px;
+    font-family:cursive;
+}
+body{
+    background-image: url('bg3.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}

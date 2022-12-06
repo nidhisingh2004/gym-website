@@ -1,0 +1,17 @@
+body{
+    background-image:url('bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(190, 203, 214);
+}
+form{
+    border-style: double;
+    height: 402px;
+    width: 296px;
+    border-color: rgb(136, 136, 237);
+    
+}
+.button{
+    margin-top: 26px;
+    margin-left: 66px;
+}
